@@ -65,8 +65,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.12)
-  jekyll
+  jekyll (~> 4)
   phantom_jekyll_theme!
 
 BUNDLED WITH
-   1.12.6
+   1.17.3
